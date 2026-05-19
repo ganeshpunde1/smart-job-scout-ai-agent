@@ -1,4 +1,5 @@
-(**Project Overview**)
+**Smart-Job-Scout-AI-Agent Overview :**
+
 - **Purpose**: A scheduled job reporter that searches jobs via the JSearch (RapidAPI) service, writes results to an Excel spreadsheet, and optionally emails a formatted report.
 
 (**Quick Start**)
