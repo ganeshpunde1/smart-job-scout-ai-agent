@@ -1,0 +1,31 @@
+# RapidAPI / JSearch
+rapidapi.key=your-rapidapi-key
+rapidapi.host=jsearch.p.rapidapi.com
+rapidapi.base.url=https://jsearch.p.rapidapi.com/search-v2
+
+# SMTP (Gmail)
+smtp.host=smtp.gmail.com
+smtp.port=587
+smtp.user=your-email@gmail.com
+smtp.password=your-gmail-app-password
+
+# Email
+email.from=your-email@gmail.com
+email.to=recipient@example.com
+email.greeting=Hi Job Seeker,
+email.opening=I hope you are doing well.
+email.intro=Please find below the latest AI/GenAI job search report curated for Lead, Senior, and Principal-level opportunities across AI/ML, LLMs, RAG, AWS Bedrock, Python, and Full Stack Engineering roles.
+email.signer=Your Name
+
+# Job search defaults
+job.query=developer jobs in chicago
+job.num.pages=1
+job.country=us
+job.date.posted=all
+job.employment.types=FULLTIME
+job.send.mail=true
+
+# Application
+output.dir=.
+ssl.verify=false
+http.timeout=30
